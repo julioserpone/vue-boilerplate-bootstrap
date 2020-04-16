@@ -4,6 +4,10 @@
 ```
 npm install
 ```
+### Configuration
+```
+Edit .env file to configure API endpoint to match with the Project Rest API.
+```
 
 ### Compiles and hot-reloads for development
 ```
